@@ -1,4 +1,5 @@
 def str_func(word):
+ <<<<<<< feature/task3
     '''Upper Text'''
     return word.upper()
 
